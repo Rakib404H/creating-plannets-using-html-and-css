@@ -38,7 +38,7 @@ This project was inspired by a tutorial from [Adson Paulo's YouTube channel](htt
 ## Preview
 
 ![Project Preview](Screenshot.png)  
-(*Replace this with a screenshot of your project*)
+
 
 ## Credits
 
